@@ -10,13 +10,31 @@ namespace Lesson_8.NetFrameWork
     {
         static void Main(string[] args)
         {
-            string a = "Hello world!";
+            Console.WriteLine(Properties.Settings.Default.Greeting);
 
-            int b = 33;
+            if (string.IsNullOrEmpty(Properties.Settings.Default.Name) || string.IsNullOrEmpty(Properties.Settings.Default.Age) || string.IsNullOrEmpty(Properties.Settings.Default.KindOfActivity))
+            {
+                Console.WriteLine("Введите имя пользователя: ");
 
-            string result = $"{a} and b";
+                Properties.Settings.Default.Name = Console.ReadLine();
 
-            Console.WriteLine(result);
+                Console.WriteLine("Введите возраст пользователя: ");
+
+                Properties.Settings.Default.Age = Console.ReadLine();
+
+                Console.WriteLine("Введите вид деятельности");
+
+                Properties.Settings.Default.KindOfActivity = Console.ReadLine();
+
+                Properties.Settings.Default.Save();
+            }
+            else
+            {
+                Console.WriteLine($"Пользователь: {Properties.Settings.Default.Name}. Возраст пользователя: {Properties.Settings.Default.Age}. Вид деятельности: {Properties.Settings.Default.KindOfActivity}");
+
+            }
+
+
         }
     }
 }
