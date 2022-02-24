@@ -1,0 +1,10 @@
+C:\Users\windo\source\repos\Lesson_8\Lesson_8.NetFrameWork\Lesson_8.NetFrameWork\bin\Debug\Lesson_8.NetFrameWork.exe.config
+C:\Users\windo\source\repos\Lesson_8\Lesson_8.NetFrameWork\Lesson_8.NetFrameWork\bin\Debug\Lesson_8.NetFrameWork.exe
+C:\Users\windo\source\repos\Lesson_8\Lesson_8.NetFrameWork\Lesson_8.NetFrameWork\bin\Debug\Lesson_8.NetFrameWork.pdb
+C:\Users\windo\source\repos\Lesson_8\Lesson_8.NetFrameWork\Lesson_8.NetFrameWork\obj\Debug\Lesson_8.NetFrameWork.csproj.AssemblyReference.cache
+C:\Users\windo\source\repos\Lesson_8\Lesson_8.NetFrameWork\Lesson_8.NetFrameWork\obj\Debug\Lesson_8.NetFrameWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\windo\source\repos\Lesson_8\Lesson_8.NetFrameWork\Lesson_8.NetFrameWork\obj\Debug\Lesson_8.NetFrameWork.Properties.Resources.resources
+C:\Users\windo\source\repos\Lesson_8\Lesson_8.NetFrameWork\Lesson_8.NetFrameWork\obj\Debug\Lesson_8.NetFrameWork.csproj.GenerateResource.cache
+C:\Users\windo\source\repos\Lesson_8\Lesson_8.NetFrameWork\Lesson_8.NetFrameWork\obj\Debug\Lesson_8.NetFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\windo\source\repos\Lesson_8\Lesson_8.NetFrameWork\Lesson_8.NetFrameWork\obj\Debug\Lesson_8.NetFrameWork.exe
+C:\Users\windo\source\repos\Lesson_8\Lesson_8.NetFrameWork\Lesson_8.NetFrameWork\obj\Debug\Lesson_8.NetFrameWork.pdb
